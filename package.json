@@ -1,0 +1,15 @@
+{
+  "name": "goku-encoder",
+  "version": "1.0.0",
+  "description": "Morse Code Encoder & Decoder",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": ["encoder", "decoder", "morse", "cipher"],
+  "author": "Siee1234",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
